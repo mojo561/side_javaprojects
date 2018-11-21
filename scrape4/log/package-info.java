@@ -1,5 +1,0 @@
-/**
- * @author mojo
- *
- */
-package log;
